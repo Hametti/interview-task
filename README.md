@@ -17,7 +17,7 @@ To run the Currency Exchange project locally, follow these steps:
 1. Install latest LTS version of Node.js from 'https://nodejs.org/'
 2. Clone the repository to your local machine by using following command with e.g. git bash:
    git clone https://github.com/your-username/CurrencyExchange.git
-3. Open 'CurrencyExchange.sln' in Visual Studio 2022 - 'https://visualstudio.microsoft.com/downloads/'
+3. Open 'CurrencyExchange.sln' in Visual Studio 2022 with installed .NET 8 - 'https://visualstudio.microsoft.com/downloads/'
 4. Run application and done, it works
 5. To launch user interface you have to open your browser and type "localhost:5173" or set multiple-startup projects in visual studio with selected 'CurrencyExchange.Server' and 'currencyexchange.client before running the application'
    
