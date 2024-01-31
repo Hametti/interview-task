@@ -19,5 +19,5 @@ To run the Currency Exchange project locally, follow these steps:
    git clone https://github.com/your-username/CurrencyExchange.git
 3. Open 'CurrencyExchange.sln' in Visual Studio 2022 with installed .NET 8 - 'https://visualstudio.microsoft.com/downloads/'
 4. Run application and done, it works
-5. To launch user interface you have to open your browser and type "localhost:{host-provided-in-vite-console}" or set multiple-startup projects in visual studio with selected 'CurrencyExchange.Server' and 'currencyexchange.client before running the application'
+5. To launch user interface you have to open your browser and type "localhost:5173" or set multiple-startup projects in visual studio with selected 'CurrencyExchange.Server' and 'currencyexchange.client before running the application'
    
